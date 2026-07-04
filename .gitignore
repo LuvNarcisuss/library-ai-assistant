@@ -1,0 +1,10 @@
+# Playwright CLI 临时文件（截图、会话历史、测试数据、日志等）
+.playwright-cli/
+backend/.playwright-cli/
+
+#agent文件
+.claude
+.agents
+
+#项目文档
+docs
