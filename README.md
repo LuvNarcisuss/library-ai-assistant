@@ -154,10 +154,10 @@ npm run dev
 
 ### 6. 访问系统
 
-| 地址 | 说明 |
-|------|------|
-| http://localhost:5173 | 前端界面 |
-| http://localhost:8000/docs | API 文档（Swagger） |
+| 地址                         | 说明 |
+|----------------------------|------|
+| http://localhost:5173      | 前端界面 |
+| http://localhost:3680/docs | API 文档（Swagger） |
 
 ## 默认账号
 

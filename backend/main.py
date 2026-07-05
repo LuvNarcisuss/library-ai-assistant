@@ -4,7 +4,6 @@ FastAPI 应用入口
 启动方式：
   1. python main.py
   2. uvicorn main:app --host 0.0.0.0 --port 3680
-  3. python run.py
 
 端口保护：自动检测并清理端口占用
 """
