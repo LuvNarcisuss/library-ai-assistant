@@ -20,6 +20,3 @@ docs
 # 环境变量（包含敏感信息）
 .env
 !.env.example
-
-# 登录状态文件
-wiki_login_state.json
